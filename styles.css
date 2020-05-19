@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #252a34;
+}
+
+.instructions{
+  text-align: center;
+  color: wheat;
+  font-family: 'Abril Fatface', cursive;
+font-size: 2rem;
+line-break: 1rem;
+line-height:1rem;
+}
+h1 {
+  margin: 30px;
+  font-family: 'Abril Fatface', cursive;
+    text-shadow: 5px 0 #131313;
+  font-size: 7rem;
+  color: #ff2e63;
+}
+
+p {
+  font-size: 4rem;
+  color: #fff;
+  font-family: 'Cookie', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 3%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Cookie', cursive;
+
+}
